@@ -70,7 +70,9 @@ public class C03_KeyDownKeyUp extends TestBase {
         driver.findElement(By.xpath("(//*[@class='QS5gu sy4vM'])[2]")).click();
         // Arama kutusuna "Selenium" yazın ve Enter tuşuna basın
         WebElement searchBox = driver.findElement(By.xpath("//*[@class='gLFyf']"));
-        searchBox.sendKeys("Selenium", Keys.ENTER);
+        //searchBox.sendKeys("Selenium", Keys.ENTER);
+        searchBox.sendKeys("Selenium");
+        searchBox.submit();
         // Sayfayı bekleyin
         warten(3);
 

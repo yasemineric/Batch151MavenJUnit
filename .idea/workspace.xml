@@ -4,43 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6cba1c7-eb4a-4a62-8a4a-b7ac6208df25" name="Changes" comment="02.06.23">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Mave_Junit/C01_MavenClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Mave_Junit/C01_Odev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Mave_Junit/C02_BeforeAfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Mave_Junit/C03_BeforeAfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Mave_Junit/C04_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C01_BeforeAfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C02_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C03_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C04_CheckBoxClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C05_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_DropDown/C01_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_DropDown/C02_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_DropDown/C03_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase/C01_TestBaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase/C02_Alert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase/C03_AlertMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_TestBase/C04_DropDownReusableMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe/C01_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe/C02_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe/C03_windowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day11_Iframe/C04_Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day12_WindowHandles/C01_WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day12_WindowHandles/C02_BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day13_Cookies_ActionsDTNT/C01_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day13_Cookies_ActionsDTNT/C02_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day13_Cookies_ActionsDTNT/C03_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C01_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C02_Actions_DragDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/C03_KeyDownKeyUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day14_Actions_Faker/Odev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+    <list default="true" id="e6cba1c7-eb4a-4a62-8a4a-b7ac6208df25" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Capitals (2).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day20_WebTablesExcel/C01_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day20_WebTablesExcel/C02_ExcelRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C02_ClassWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C02_ClassWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,89 +42,95 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Batch151MavenJUnit/src/test/java/resources"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.C03_KeyDownKeyUp.test03">
-    <configuration name="C02_Actions_DragDrop.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Batch151MavenJUnit\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C02_ExcelRead.excelReadTest02">
+    <configuration name="C01_WebTables.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day14_Actions_Faker.*" />
+          <option name="PATTERN" value="techproed.day20_WebTablesExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day14_Actions_Faker" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day14_Actions_Faker.C02_Actions_DragDrop" />
+      <option name="PACKAGE_NAME" value="techproed.day20_WebTablesExcel" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day20_WebTablesExcel.C01_WebTables" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Actions_DragDrop.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebTables.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day14_Actions_Faker.*" />
+          <option name="PATTERN" value="techproed.day20_WebTablesExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day14_Actions_Faker" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day14_Actions_Faker.C02_Actions_DragDrop" />
+      <option name="PACKAGE_NAME" value="techproed.day20_WebTablesExcel" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day20_WebTablesExcel.C01_WebTables" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Actions_DragDrop.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebTables.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day14_Actions_Faker.*" />
+          <option name="PATTERN" value="techproed.day20_WebTablesExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day14_Actions_Faker" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day14_Actions_Faker.C02_Actions_DragDrop" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="techproed.day20_WebTablesExcel" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day20_WebTablesExcel.C01_WebTables" />
+      <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_KeyDownKeyUp.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebTables.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day14_Actions_Faker.*" />
+          <option name="PATTERN" value="techproed.day20_WebTablesExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day14_Actions_Faker" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day14_Actions_Faker.C03_KeyDownKeyUp" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="techproed.day20_WebTablesExcel" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day20_WebTablesExcel.C01_WebTables" />
+      <option name="METHOD_NAME" value="test05" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_KeyDownKeyUp.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_ExcelRead.excelReadTest02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day14_Actions_Faker.*" />
+          <option name="PATTERN" value="techproed.day20_WebTablesExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day14_Actions_Faker" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day14_Actions_Faker.C03_KeyDownKeyUp" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="techproed.day20_WebTablesExcel" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day20_WebTablesExcel.C02_ExcelRead" />
+      <option name="METHOD_NAME" value="excelReadTest02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C03_KeyDownKeyUp.test03" />
-        <item itemvalue="JUnit.C03_KeyDownKeyUp.test01" />
-        <item itemvalue="JUnit.C02_Actions_DragDrop.test03" />
-        <item itemvalue="JUnit.C02_Actions_DragDrop.test02" />
-        <item itemvalue="JUnit.C02_Actions_DragDrop.test01" />
+        <item itemvalue="JUnit.C02_ExcelRead.excelReadTest02" />
+        <item itemvalue="JUnit.C01_WebTables.test05" />
+        <item itemvalue="JUnit.C01_WebTables.test04" />
+        <item itemvalue="JUnit.C01_WebTables.test02" />
+        <item itemvalue="JUnit.C01_WebTables.test01" />
       </list>
     </recent_temporary>
   </component>
